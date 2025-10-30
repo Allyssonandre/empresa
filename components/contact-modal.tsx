@@ -48,7 +48,7 @@ export function ContactModal({ isOpen, onClose }: ContactModalProps) {
               <Instagram className="mr-3 h-5 w-5 text-primary" />
               <div className="flex flex-col items-start">
                 <span className="font-semibold text-gray-900">Instagram</span>
-                <span className="text-sm text-gray-600">@andreallysson30</span>
+                <span className="text-sm text-gray-600">@alntecnologia</span>
               </div>
             </a>
           </Button>
