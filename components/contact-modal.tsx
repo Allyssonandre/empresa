@@ -12,7 +12,7 @@ interface ContactModalProps {
 export function ContactModal({ isOpen, onClose }: ContactModalProps) {
   const whatsappNumber = "5584991167857"
   const whatsappLink = `https://wa.me/${whatsappNumber}`
-  const instagramLink = "https://www.instagram.com/andreallysson30/"
+  const instagramLink = "https://www.instagram.com/alntecnologia/"
 
   return (
     <Dialog open={isOpen} onOpenChange={onClose}>
